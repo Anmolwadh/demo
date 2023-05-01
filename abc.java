@@ -12,6 +12,7 @@ public class abc {
 		ChromeDriver driver= new ChromeDriver();
 		driver.get("https://nuco-development.signitydemo.in/login");
 
+		System.out.println("Hello");
 	}
 
 }
